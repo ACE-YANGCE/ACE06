@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">沉浸式状态栏</string>
+    <string name="app_name">ACE06沉浸式状态栏</string>
+    <string name="app_name2">测试ems属性</string>
+
+    <string name="test_str1">一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十</string>
+    <string name="test_str2">一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一</string>
+    <string name="test_str3">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</string>
+    <string name="test_str4">abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz</string>
+    <string name="test_str5">111111111111111111111111111111111111111111111111111111</string>
+    <string name="test_str6">123456789012345678901234567890123456789012345678901234567890</string>
+
 </resources>

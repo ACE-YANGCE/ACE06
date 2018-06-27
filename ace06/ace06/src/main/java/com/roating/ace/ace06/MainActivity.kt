@@ -17,6 +17,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         main_tv3.setOnClickListener(this)
         main_tv4.setOnClickListener(this)
         main_tv5.setOnClickListener(this)
+        main_tv6.setOnClickListener(this)
+        main_tv7.setOnClickListener(this)
     }
 
     override fun onClick(v: View?) {
@@ -35,6 +37,12 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             }
             R.id.main_tv5 -> {
                 main_tv5.text = "折叠布局 CollapsingToolbarLayout 折叠后的效果也是沉浸式状态，可以固定折叠后的状态，但是并不建议这样处理，偶然想到而已！"
+            }
+            R.id.main_tv6 -> {
+                startActivity(Intent(this, ToolbarTestActivityK::class.java))
+            }
+            R.id.main_tv7 -> {
+                startActivity(Intent(this, ToolbarLayerActivityK::class.java))
             }
         }
     }

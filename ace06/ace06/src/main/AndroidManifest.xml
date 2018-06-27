@@ -40,6 +40,24 @@
             android:screenOrientation="portrait"
             android:theme="@style/ToorbarTheme"
             android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name=".EmsTestActivityK"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/ToorbarTheme"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name=".ToolbarTestActivityK"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/ToorbarTheme"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name=".ToolbarLayerActivityK"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/ToorbarTheme"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
     </application>
 
 </manifest>

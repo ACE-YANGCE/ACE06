@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/left_tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="1"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="2"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="3"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="4"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="5"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="6"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="7"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="8"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="9"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="10"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="11"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="12"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="13"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="14"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv15"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="15"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+
+                <TextView
+                    android:id="@+id/left_tv16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="16"
+                    android:maxLines="1"
+                    android:text="@string/test_str1" />
+                <TextView
+                    android:id="@+id/left_tv21"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="1"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="2"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv23"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="3"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv24"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="4"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv25"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="5"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv26"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="6"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv27"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="7"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv28"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="8"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv29"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="9"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv210"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="10"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv211"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="11"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv212"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="12"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv213"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="13"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv214"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="14"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv215"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="15"
+                    android:maxLines="1"
+                    android:text="@string/test_str2" />
+
+                <TextView
+                    android:id="@+id/left_tv216"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="16"
+                    android:maxLines="1"
+                    android:singleLine="true"
+                    android:text="@string/test_str2" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right"
+                android:gravity="right"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/right_tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv15"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+                <TextView
+                    android:id="@+id/right_tv21"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv23"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv24"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv25"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv26"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv27"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv28"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv29"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv210"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv211"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv212"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv213"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv214"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv215"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/right_tv216"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="123" />
+            </LinearLayout>
+        </FrameLayout>
+    </ScrollView>
+</LinearLayout>
